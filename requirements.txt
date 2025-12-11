@@ -1,0 +1,5 @@
+pandas>=1.3.0
+parselmouth>=0.3.0
+
+
+
